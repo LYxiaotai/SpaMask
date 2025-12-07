@@ -67,7 +67,7 @@ The installation of the mclust package can be found in Step 3.
 Figures 2A-F, 3A-H, 4A-H, 5A-F, and 6A-F.
 Figures S1A-B, S2, S3, S4, S5, S6, S7A-B, S8A-H, S9, S10, S11A-D, S12A-G, S13A-D, S14A-D, S15A-E, S16, S17A-B, S18A-F, S19, S20A-C, and S21A-B.
 
-(2) The code.rar file also includes full details for reproducing the results shown in the paper, as well as the code used for generating results for other methods (GraphST, STAGATE, SEDR, conST, SpaceFlow, SpaMask, stCMGAE, MAEST, and SpaDo) described in the manuscript.
+(2) The code.rar file also includes full details for reproducing the results of MMSpa, as well as the code used for generating results for other methods (GraphST, STAGATE, SEDR, conST, SpaceFlow, SpaMask, stCMGAE, MAEST, and SpaDo).
 
 (3) The data.rar file contains the data (DLPFC, AMBS1, MB2SP, Anterior, PDAC_A, Breast, E1S1_Stereoseq, E2S3_Stereoseq, MERFISH, osmFISH, and STARmap) required to reproduce all the figures presented in the manuscript. 
 These data files are intended to be used in conjunction with the code in code.rar to ensure accurate reproduction of the experimental results shown in the paper.
